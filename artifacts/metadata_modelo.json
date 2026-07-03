@@ -1,0 +1,10 @@
+{
+    "modelo_disponible": true,
+    "anio_base": 2018,
+    "historial_utilizado": "Enero 2018 - Mayo 2026",
+    "ultima_actualizacion": "03/07/2026 00:28",
+    "margen_error_estimado": 17,
+    "total_meses_historicos": 101,
+    "umbral_bajo": 84.0,
+    "umbral_alto": 129.0
+}
